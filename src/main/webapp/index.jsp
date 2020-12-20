@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Hello shell scripting1</h2>>
-<h2>Hello shell scripting</h2>
+<h2>Hello python  scripting</h2>
 <h2>Hello Jenkins users!</h2>
 <h2>Hello Devops group!</h2>
 <h2>Hello Tomcat group!</h2>
