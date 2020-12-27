@@ -6,7 +6,7 @@
 
   <groupId>com.cubesoft</groupId>
   <artifactId>webapp_project</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>2.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>webapp_project Maven Webapp</name>
