@@ -28,6 +28,20 @@
     </dependency>
   </dependencies>
 
+<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>ip-172-31-77-81.ec2.internal-releases</name>
+        <url>http://3.235.141.1:8081/artifactory/libs-release-local</url>
+    </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>ip-172-31-77-81.ec2.internal-snapshots</name>
+        <url>http://3.235.141.1:8081/artifactory/libs-snapshot-local</url>
+    </snapshotRepository>
+</distributionManagement>
+
+
   <build>
     <finalName>webapp_project</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
